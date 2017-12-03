@@ -1,2 +1,2 @@
 # heroku-django
-In this project  we going to see how we going to deploy Django project on heroku.
+In this project  we going to see how to deploy Django project on heroku.
